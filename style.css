@@ -1,5 +1,19 @@
-.nav-logo {
+.navbar {
+  margin-top: 15px;
 }
 .nav-logo img {
   width: 100%;
+}
+.nav-item {
+  font-size: 20px;
+  padding: 0 15px;
+}
+.sign-in-item {
+  height: 0px;
+  width: 130px;
+}
+.sign-in {
+  background-color: green;
+  border-radius: 50px;
+  color: white;
 }
