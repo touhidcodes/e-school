@@ -1,3 +1,8 @@
+/* common-content */
+.highlight {
+  color: #21b573;
+}
+/* navbar-content-start */
 .navbar {
   margin-top: 15px;
 }
@@ -13,7 +18,10 @@
   width: 130px;
 }
 .sign-in {
-  background-color: green;
+  background-color: #21b573;
   border-radius: 50px;
   color: white;
 }
+/* navbar-content-end */
+/* first-section-content-start */
+/* first-section-content-end */
