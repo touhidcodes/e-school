@@ -161,7 +161,7 @@
 /* fourth-section-end */
 /* last-section-start */
 .last-section {
-  height: 350px;
+  height: 450px;
   background-color: #282531;
 }
 .last-section-content {
@@ -186,5 +186,10 @@
 }
 .last-section-column a {
   text-decoration: none;
+}
+.footer-content {
+  padding-top: 75px;
+  color: white;
+  font-size: 20px;
 }
 /* last-section--end */
