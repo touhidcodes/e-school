@@ -60,3 +60,12 @@
   width: 100%;
 }
 /* first-section-content-end */
+/* second-section-content-start */
+.second-section-images {
+  height: 85px;
+  width: 80px;
+}
+.second-section-images img {
+  width: 100%;
+}
+/* second-section-content-end */
