@@ -61,11 +61,24 @@
 }
 /* first-section-content-end */
 /* second-section-content-start */
+.second-section {
+  margin-top: 75px;
+  margin-bottom: 100px;
+}
+.second-section-columns {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+}
 .second-section-images {
   height: 85px;
   width: 80px;
+  margin-top: 50px;
 }
 .second-section-images img {
   width: 100%;
+}
+.second-section-content {
+  margin-top: 35px;
 }
 /* second-section-content-end */
